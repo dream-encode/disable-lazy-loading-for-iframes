@@ -5,8 +5,8 @@
 * Tags: iframe, lazy, loading
 * License: MIT
 * Requires PHP: 7.4
-* Tested up to: 5.6.2
-* Stable Tag: trunk
+* Tested up to: 6.0
+* Stable tag: 0.1.0
 
 A small plugin to quickly disable the lazy loading for iframes in WordPress 5.7 and beyond.
 
